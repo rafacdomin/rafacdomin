@@ -32,6 +32,6 @@
 ---
 <br />
 
-- 👨‍💻 I'm currently available for work.
+- 👨‍💻 Frontend Developer at [Criptonomia](https://www.criptonomia.com).
 - 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
 - :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
