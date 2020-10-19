@@ -33,5 +33,5 @@
 <br />
 
 - 👨‍💻 Frontend Developer at [Criptonomia](https://www.criptonomia.com).
-- 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
+- 🌱 Learning more about and studying: **Vue.js, React, React Native and NodeJS.**
 - :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
