@@ -4,14 +4,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=6633cc&icon_color=f7df1e&text_color=7159c1"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=6633cc&icon_color=f7df1e&text_color=7159c1"
     />
   </a>
 </p>
@@ -32,6 +32,10 @@
 ---
 <br />
 
-- 👨‍💻 Frontend Developer at [Criptonomia](https://www.criptonomia.com).
-- 🌱 Learning more about and studying: **Vue.js, React, React Native and NodeJS.**
-- :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
+- 👨‍💻 Frontend Developer at [@Criptonomia](https://www.criptonomia.com)
+- ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS, Docker, MongoDB, PostgreSQL**
+- 🌱 Learning more about and studying: **NextJS, Quasar Framework**
+- 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
+- 👋🏻 Feel free to get in touch!
+
+<br />
