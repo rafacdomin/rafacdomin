@@ -1,37 +1,37 @@
-<img src="https://github.com/rafacdomin/rafacdomin/blob/master/github/BioMe.gif?raw=true"/>
+# Rafael Domingues
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN"
-    />
+<img
+  align="right"
+  width="300px"
+  src="./bioImg.svg"
+/>
+<span align="left">
+  <a href="https://www.linkedin.com/in/rafaelcodomingues/">
+    <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelcodomingues/" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
+  <a href="mailto:rafaelcodomingues@gmail.com">
+    <img src="https://img.shields.io/badge/-rafaelcodomingues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcodomingues@gmail.com" />
   </a>
-</p>
+  <a href="https://dev.to/rafacdomin">
+    <img src="https://img.shields.io/badge/DEV.to-rafacdomin-black" />
+  </a>
+  <a href="https://github.com/rafacdomin/?tab=follow">
+    <img src="https://img.shields.io/github/followers/rafacdomin?label=Follow&style=social" />
+  </a>
+</span>
 
-<a href="https://www.linkedin.com/in/rafaelcodomingues/">
-  <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelcodomingues/" />
-</a>
-<a href="mailto:rafaelcodomingues@gmail.com">
-  <img src="https://img.shields.io/badge/-rafaelcodomingues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcodomingues@gmail.com" />
-</a>
-<a href="https://dev.to/rafacdomin">
-  <img src="https://img.shields.io/badge/DEV.to-rafacdomin-black" />
-</a>
-<a href="https://github.com/rafacdomin/?tab=follow">
-  <img src="https://img.shields.io/github/followers/rafacdomin?label=Follow&style=social" />
-</a>
-
----
 <br />
 
-- 👨‍💻 Frontend Developer at [Criptonomia](https://www.criptonomia.com).
-- 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
-- :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
+- 👨‍💻 Frontend Developer at [@Criptonomia](https://www.criptonomia.com)
+- ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS, Docker, MongoDB, PostgreSQL**
+- 🌱 Learning more about and studying: **NextJS, Quasar Framework**
+- 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
+- 👋🏻 Feel free to get in touch!
+
+<br />
+
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+/>
