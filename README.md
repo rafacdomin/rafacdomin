@@ -22,8 +22,8 @@
 
 <br />
 
-- 👨‍💻 Frontend Developer at [@Criptonomia](https://www.criptonomia.com)
-- ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS, Docker, MongoDB, PostgreSQL**
+- 👨‍💻 Frontend Engineer at [@TQI](https://www.tqi.com.br/)
+- ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS**
 - 🌱 Learning more about and studying: **NextJS, Quasar Framework**
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
 - 👋🏻 Feel free to get in touch!
