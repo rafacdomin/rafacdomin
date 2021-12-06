@@ -22,7 +22,7 @@
 
 <br />
 
-- 👨‍💻 Frontend Engineer at [@TQI](https://www.tqi.com.br/)
+- 👨‍💻 Frontend Software Engineer at [@TQI](https://www.tqi.com.br/)
 - ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS**
 - 🌱 Learning more about and studying: **NextJS, Quasar Framework**
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
