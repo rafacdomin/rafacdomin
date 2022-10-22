@@ -24,7 +24,7 @@
 
 - 👨‍💻 Frontend Software Engineer at [@TQI](https://www.tqi.com.br/)/[@PagBank](https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis#rmcl)
 - ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS**
-- 🌱 Learning more about and studying: **NextJS, Quasar Framework**
+- 🌱 Learning more about and studying: **Design System**
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
 - 👋🏻 Feel free to get in touch!
 
