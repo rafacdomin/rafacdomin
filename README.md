@@ -1,6 +1,6 @@
 # Rafael Domingues
 
-[➡️ Profissional Profile](https://github.com/tqi-rafa)
+[➡️ Professional Profile](https://github.com/tqi-rafa)
 
 ---
 
