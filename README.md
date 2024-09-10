@@ -7,7 +7,7 @@
 <img
   align="right"
   width="300px"
-  src="./bioImg.svg"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pwbXYxMGY2ZnFzejZ4MTdqbTAwOTYyMmJneDQ4MDhmcGJud2poNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp"
 />
 <span align="left">
   <a href="https://www.linkedin.com/in/rafaelcodomingues/">
@@ -37,10 +37,14 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+  src="https://github-readme-stats.vercel.app/api?username=rafacdomin&rank_icon=github&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=C1E1C1&icon_color=32ff7b&text_color=50C878"
 />
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=C1E1C1&icon_color=32ff7b&text_color=50C878"
 />
+
+## Activity from [Profissional Profile](https://github.com/tqi-rafa)
+
+[![image](https://github.com/user-attachments/assets/8d3d0a22-f95e-437a-8d6f-c1de263e16da)](https://github.com/tqi-rafa)
