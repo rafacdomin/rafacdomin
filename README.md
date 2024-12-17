@@ -47,4 +47,5 @@
 
 ## Activity from [Profissional Profile](https://github.com/tqi-rafa)
 
-[![image](https://github.com/user-attachments/assets/8d3d0a22-f95e-437a-8d6f-c1de263e16da)](https://github.com/tqi-rafa)
+[![image](https://github.com/user-attachments/assets/d130e1a4-d87d-41da-b8c9-467534637fb1)](https://github.com/tqi-rafa)
+
