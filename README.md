@@ -45,7 +45,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=C1E1C1&icon_color=32ff7b&text_color=50C878"
 />
 
-## Activity from [Profissional Profile](https://github.com/tqi-rafa)
+## Activity from [Professional Profile](https://github.com/tqi-rafa)
 
 [![image](https://github.com/user-attachments/assets/d130e1a4-d87d-41da-b8c9-467534637fb1)](https://github.com/tqi-rafa)
 
