@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/rafaelcodomingues/">
     <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelcodomingues/" />
   </a>
-  <a href="mailto:rafaelcodomingues@gmail.com">
-    <img src="https://img.shields.io/badge/-rafaelcodomingues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcodomingues@gmail.com" />
+  <a href="mailto:contact@rafaeldomingues.dev">
+    <img src="https://img.shields.io/badge/-contact@rafaeldomingues.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcodomingues@gmail.com" />
   </a>
   <a href="https://dev.to/rafacdomin">
     <img src="https://img.shields.io/badge/DEV.to-rafacdomin-black" />
