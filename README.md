@@ -1,6 +1,6 @@
 # Rafael Domingues
 
-[➡️ Professional Profile](https://github.com/tqi-rafa)
+[➡️ Corporative Profile](https://github.com/tqi-rafa)
 
 ---
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelcodomingues/" />
   </a>
   <a href="mailto:contact@rafaeldomingues.dev">
-    <img src="https://img.shields.io/badge/-contact@rafaeldomingues.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcodomingues@gmail.com" />
+    <img src="https://img.shields.io/badge/-contact@rafaeldomingues.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@rafaeldomingues.dev" />
   </a>
   <a href="https://dev.to/rafacdomin">
     <img src="https://img.shields.io/badge/DEV.to-rafacdomin-black" />
@@ -26,15 +26,15 @@
 
 <br />
 
-- 👨‍💻 Frontend Software Engineer at [@TQI](https://www.tqi.com.br/)/[@PagBank](https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis#rmcl)
-- ⚡ Skills: **ReactJS, VueJS, React Native, JavaScript, Typescript, NodeJS**
-- 🌱 Learning more about and studying: **Design System**
+- 👨‍💻 Senior Frontend Software Engineer
+- ⚡ Skills: **React.js, Typescript, Design Systems, Next.js, JavaScript**
+- 🌱 Learning more about and studying: **AI Agents, Spec-Driven Development (SDD), MCPs**
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
 - 👋🏻 Feel free to get in touch!
 
 <br />
 
-## Activity from [Professional Profile](https://github.com/tqi-rafa)
+## Activity from [Corporative Profile](https://github.com/tqi-rafa)
 
-[![image](https://github.com/user-attachments/assets/d130e1a4-d87d-41da-b8c9-467534637fb1)](https://github.com/tqi-rafa)
+[![image](tqi-rafa_contributions.png)](https://green-wall.leoku.dev/share/tqi-rafa?theme=Violet)
 
